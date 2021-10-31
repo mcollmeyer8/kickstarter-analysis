@@ -11,7 +11,7 @@ To help Louise gather data on other Kickstarter campaigns, so she can better pla
 Our analysis reviewed various types of Kickstarter campaigns, of varying topics, durations and monetary goal points, in different countries. Analyzing so much data, and rendering it down to a useful data set for Louise to reference was a challenge.
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes_Based_On_LaunchDate](**Add link**)
+![Outcomes_Based_On_LaunchDate](https://github.com/mcollmeyer8/kickstarter-analysis/blob/main/Outcomes_Based_On_LaunchDate.png)
 
 ### Analysis of Outcomes Based on Goals
 ![Parent_Category_Outcomes_Chart](**Add link**)
