@@ -18,11 +18,12 @@ Our analysis reviewed various types of Kickstarter campaigns, of varying topics,
 ![Subcategory_Outcomes_Chart](https://github.com/mcollmeyer8/kickstarter-analysis/blob/main/Subcategory_Outcomes_Chart.png)
 
 ### Challenges and Difficulties Encountered
-
+None
 
 ## Results & Recommendations
-
-
+Based on our findings, Louise should set a Kickstarter goal under $10,000. Our findings determined that $5,000 was the mean goal of the successful campaigns.
+May had the most successful theater Kickstarter launches, with October seeing the most failures in this category. 
+Additional analysis will be required to determine a final recommendation for Louise.
 
 
 
