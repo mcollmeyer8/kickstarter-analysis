@@ -13,8 +13,9 @@ Our analysis reviewed various types of Kickstarter campaigns, of varying topics,
 ### Analysis of Outcomes Based on Launch Date
 ![Outcomes_Based_On_LaunchDate](https://github.com/mcollmeyer8/kickstarter-analysis/blob/main/Outcomes_Based_On_LaunchDate.png)
 
-### Analysis of Outcomes Based on Goals
-![Parent_Category_Outcomes_Chart](**Add link**)
+### Analysis of Outcomes Based on Category and Subcategory
+![Parent_Category_Outcomes_Chart](https://github.com/mcollmeyer8/kickstarter-analysis/blob/main/Parent_Category_Outcomes_Chart.png)
+![Subcategory_Outcomes_Chart](https://github.com/mcollmeyer8/kickstarter-analysis/blob/main/Subcategory_Outcomes_Chart.png)
 
 ### Challenges and Difficulties Encountered
 
