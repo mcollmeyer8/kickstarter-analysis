@@ -1,29 +1,35 @@
-# Kickstarting with Excel
-An Analysis of Kickstarter Campaigns.
+# Kickstart Comparison for Louise
 
 ## Overview of Project
-Performing analysis on Kickstarter data to uncover trends
+Compare Kickstart campaigns for plays by launch dates and funding goals
 
 ### Purpose
-To help Louise gather data on other Kickstarter campaigns, so she can better plan her own Kickstarter campaign
+Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
-Our analysis reviewed various types of Kickstarter campaigns, of varying topics, durations and monetary goal points, in different countries. Analyzing so much data, and rendering it down to a useful data set for Louise to reference was a challenge.
+ Using the Kickstarter dataset, I created visual documentation for campaign outcomes based on their launch dates and their funding goals.
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes_Based_On_LaunchDate](https://github.com/mcollmeyer8/kickstarter-analysis/blob/main/Outcomes_Based_On_LaunchDate.png)
+** Add Theater_Outcome_vs_Launch.png
 
-### Analysis of Outcomes Based on Category and Subcategory
-![Parent_Category_Outcomes_Chart](https://github.com/mcollmeyer8/kickstarter-analysis/blob/main/Parent_Category_Outcomes_Chart.png)
-![Subcategory_Outcomes_Chart](https://github.com/mcollmeyer8/kickstarter-analysis/blob/main/Subcategory_Outcomes_Chart.png)
+### Analysis of Outcomes Based on Goals
+** Add Outcomes_vs_Goals.png
 
 ### Challenges and Difficulties Encountered
-None
+Challenges I encountered include:  1) It took me a while to figure out how to filter the row labels on the Theater Outcomes by Launch Date by month, and 2) how to format the COUNTIFS statements to populate the Outcomes Based on Goals table.
 
-## Results & Recommendations
-Based on our findings, Louise should set a Kickstarter goal under $10,000. Our findings determined that $5,000 was the mean goal of the successful campaigns.
-May had the most successful theater Kickstarter launches, with October seeing the most failures in this category. 
-Additional analysis will be required to determine a final recommendation for Louise.
+## Results
 
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+May is the best month to launch a theater Kickstarter campaign.
+October is the worst month to launch a theater Kickstarter campaign.
 
+- What can you conclude about the Outcomes based on Goals?
+The majority of the successful campaigns had a goal of under $20,000. 
 
+- What are some limitations of this dataset?
+There were 0 cancelled campaigns in this dataset.
+
+- What are some other possible tables and/or graphs that we could create?
+A chart that compares successful campaigns (goal, duration of campaign) for plays for the past 5 years could potentially help us predict future campaign success.
+A table and corresponding graph that documents backer_count for successful vs unsuccessful campaigns.
